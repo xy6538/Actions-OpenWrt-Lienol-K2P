@@ -1,4 +1,4 @@
-# Actions-OpenWrt-Lienol-K2P
+# Actions-OpenWrt-Lienol-K2P-Dev
 
 > This repository is generated from P3TERX/Actions-OpenWrt
 
