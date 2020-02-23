@@ -1,4 +1,4 @@
-# Actions-OpenWrt-Lienol-K2P
+# Actions-OpenWrt-Lienol-K2P-Dev
 
 > 这个仓库使用P3TERX/Actions-OpenWrt这一模板生成
 
