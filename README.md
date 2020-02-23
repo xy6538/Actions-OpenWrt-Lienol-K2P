@@ -2,7 +2,7 @@
 
 > This repository is generated from P3TERX/Actions-OpenWrt
 
-[中文版README](https://github.com/DreamWalkerXZ/Actions-OpenWrt-Lienol-K2P/blob/master/README.zh_CN.md)
+[中文版README](https://github.com/DreamWalkerXZ/Actions-OpenWrt-Lienol-K2P/blob/dev/README.zh_CN.md)
 
 Use Github Actions to automatically compile Lienol's Modified OpenWrt source for K2P (Using branch dev-19.07)
 
