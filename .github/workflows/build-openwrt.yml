@@ -9,7 +9,7 @@ on:
     paths:
       - '.config'
   schedule:
-    - cron: 0 4 * * 5 # 北京时间每周五中午12:00编译
+    - cron: 0 4 * * 6 # 北京时间每周六中午12:00编译
 
 env:
   REPO_URL: https://github.com/Lienol/openwrt.git
